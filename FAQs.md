@@ -15,10 +15,6 @@ Your boards will all come with green soldermask, white top and bottom legend, an
 We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our calculator. If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
 
 
-### You talked about assembly, how can I try it? ###
-
-Currently affordable assembly is in closed beta. If you want to join, please let us know via support@aisler.net.
-
 ### What are the design rules for the PCBs? ###
 
 The following design rules should be respected if you like to manufacture your PCBs with us.
