@@ -17,7 +17,7 @@ Use these design rules to get optimal results with AISLER's production.
 - Min. via pad diameter: Via drill + 0.25 mm
 - Min. stroke width of legend print: 100 μm
 
-### Exporting Gerber Files with Altium Designer ###
+### Exporting Gerber Files ###
 
 AISLER expects the gerber files in the following format:
 
