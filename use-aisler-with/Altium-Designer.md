@@ -16,7 +16,45 @@ Use these design rules to get optimal results with AISLER's production.
 - Min. stroke width of legend print: 100 μm
 
 ### Exporting Gerber Files with Altium Designer ###
-AISLER expects the gerber files in the following format:
+To properly export Gerber Files with Altium for use with AISLER, you will have to setup your NC Drill files and your Gerber setup as displayed in the screenshots below:
+
+#### NC Drill Setup ####
+
+Please navigate to **File » Fabrication Outputs » NC Drill Files** to setup NC Drill Files.
+
+[[/use-aisler-with/Altium-Designer/nc_drill_setup.png|alt=Select Inches and 2:4 Format, Keep leading zeroes, reference to relative origin, Optimize change location commands, and Generate separate NC Drill files for plated and non-plated holes]]
+
+#### Gerber Setup Dialog ####
+
+Please navigate to **File » Fabrication Outputs » Gerber Files** to setup Gerber Export.
+
+
+**Setup General:**
+
+[[/use-aisler-with/Altium-Designer/gerber_setup_general.png|alt=Select inches and 2:4 format in General tab]]
+
+
+**Setup Layers:**
+
+[[/use-aisler-with/Altium-Designer/gerber_setup_layers.png|alt=Only select Top and Bottom Overlay, Paste, Layer and Overlay, and Mechanical 1 in Setup Layer Tab]]
+
+
+**Setup Drill Drawing:**
+
+[[/use-aisler-with/Altium-Designer/gerber_setup_drill_drawing.png|alt=Deselect all options in Drill Drawing tab]]
+
+
+**Setup apertures:**
+
+[[/use-aisler-with/Altium-Designer/gerber_setup_apertures.png|alt=Select Embedded apertures (RX274X)]]
+
+
+**Setup advanced:**
+
+[[/use-aisler-with/Altium-Designer/gerber_setup_advanced.png|alt=Select Separate File per Layer in Batch Mode, Suppress leading zeroes in Leading/Trailing zeroes, Reference to relative origin in Position on Film, unsorted (raster) in Plotter type in Advance Tab. Also select Optimize change location commands.]]
+
+*Note:* In this screen the Film size and Aperture Matching Tolerances are project specific, so please add the project's relevant settings here.
+
 
 <table>
 <tr><th>Gerber Layer Name</th><th>Layer</th></tr>
@@ -31,9 +69,7 @@ AISLER expects the gerber files in the following format:
 <tr> <td>project_name_npth.xln</td><td>NPTH Holes</td> </tr>
 </table>
 
-Make sure that in your export settings you select 2:4 precision and inches for your drill files.
-
-**Please note:** Upload all your Gerbers in one ZIP-File for us to automatically detect your project's parameters. Also please do not include any other files that are not listed above.
+**Please note:** Altium is known to generate a lot of other stuff in the output files, please ensure to only include the ones relevant and named above, otherwise our import will get confused. If you have sanitized the output files, upload them as a zip file. 
 
 ### Steps to upload your project to AISLER ###
 
