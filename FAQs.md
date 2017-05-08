@@ -66,4 +66,4 @@ Regular 2-Layer circuit board orders will be shipped to you within 12 business d
 
 ### What methods of payment do you accept? ###
 
-We currently accept wire transfer, major credit cards, Bitcoin and Paypal. All transfers are handled securely through our payment provider **Mollie**.
+We currently accept wire transfer, major credit cards, Bitcoin, Paypal, iDeal, KBC/CBC, Belfius, Bancontact, and Sofort Überweisung. All transfers are handled securely through our payment provider **Mollie**.
