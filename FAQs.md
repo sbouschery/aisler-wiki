@@ -12,7 +12,7 @@ Your boards will all come with green soldermask, white top and bottom legend, an
 
 ### You say you are affordable, how much do you charge? ###
 
-We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our calculator. If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
+We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our [calculator](https://go.aisler.net). If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
 
 
 ### What are the design rules for the PCBs? ###
