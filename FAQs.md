@@ -12,7 +12,7 @@ Your boards will all come with green soldermask, white top and bottom legend, an
 
 ### You say you are affordable, how much do you charge? ###
 
-We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our calculator. If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
+We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our [calculator](https://go.aisler.net). If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
 
 
 ### What are the design rules for the PCBs? ###
@@ -66,4 +66,4 @@ Regular 2-Layer circuit board orders will be shipped to you within 12 business d
 
 ### What methods of payment do you accept? ###
 
-We currently accept wire transfer, major credit cards, Bitcoin, Paypal, iDeal, KBC/CBC, Belfius, Bancontact, and Sofort Überweisung. All transfers are handled securely through our payment provider **Mollie**.
+We currently accept wire transfer, major credit cards, Paypal, iDeal, KBC/CBC, Belfius, Bancontact, Sofort Überweisung and Bitcoin. All transfers are handled securely through our payment provider **Mollie**.
