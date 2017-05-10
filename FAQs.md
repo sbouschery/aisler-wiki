@@ -54,7 +54,7 @@ We are based in the Netherlands, which means every business inside a member stat
 
 ### Do you charge for shipping? ###
 
-Yes and No. We will send boards for free through regular mail when the order is higher than 30 EUR. If you prefer them to be shipped as insured mail you can select as an option during your order. We know shipping works smoothly in Europe & US. Want to receive your Kit in other countries, please send us an email at [felix@aisler.net](mailto:felix@aisler.net) or contact us through our social media accounts.
+Yes and No. We will send boards for free through regular mail when the order is higher than 30 EUR. We also offer insured mail and express shipping. You can find detailed informations here: https://go.aisler.net/wiki/submitting-orders/shipping-information
 
 ### Do you ship world-wide? ###
 
