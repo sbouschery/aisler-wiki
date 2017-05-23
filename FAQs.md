@@ -50,7 +50,7 @@ We accept quite a lot of file extensions, but to make sure everything gets detec
 
 ### I’m a business and would like to receive an invoice without VAT ###
 
-We are based in the Netherlands, which means every business inside a member state of the European Union is eligible for a VAT-free invoice according to EU reverse charge regulations. Please contact us via [felix@aisler.net](mailto:felix@aisler.net), send your valid Tax-Id and we will gladly set your account to a VAT-free account. When you are logged in, you will then see prices without VAT and your invoice will be VAT-free. Please note that you still have to abide to local tax laws. For addresses outside the European Union we automatically deduct the VAT so no registration is necessary.
+We are based in the Netherlands, which means every business inside a member state of the European Union is eligible for a VAT-free invoice according to EU reverse charge regulations. To set your account to a VAT-free account, please just provide your valid Tax-ID in your account information. When you are logged in, you will then see prices without VAT and your invoice will be VAT-free. Please note that you still have to abide to local tax laws. For addresses outside the European Union we automatically deduct the VAT so no registration is necessary.
 
 ### Do you charge for shipping? ###
 
