@@ -8,7 +8,7 @@ We have partnered with a manufacturer from Germany that produces boards for the 
 
 ### What are AISLER's environmental standards? ###
 
-We believe that producing electronics is possible without harming the environment. This is why we don't only put emphasis on delivering the highest quality electronics, but also upholding to the highest environmental standards. Together with our manufacturers, we try to always exceed legal standards and continously improve on every aspect of production. 
+We believe that producing electronics is possible without harming the environment. This is why we don't only put emphasis on delivering the highest quality electronics, but also upholding to the highest environmental standards. Together with our manufacturers, we try to always exceed legal standards and continuously improve on every aspect of production. 
 
 Please see the overview of the measures we take to keep those standards:
 
