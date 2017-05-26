@@ -8,18 +8,20 @@ We have partnered with a manufacturer from Germany that produces boards for the 
 
 ### What are AISLER's environmental standards? ###
 
-We don't only put emphasis on highest quality PCBs, but also on highest environmental standards. Together with our manufacturer, we try to always exceed legal standards and continously improve every aspect of production. Please see the overview of the measures we take to keep those standards, below:
+We believe that producing electronics is possible without harming the environment. This is why we don't only put emphasis on delivering the highest quality electronics, but also upholding to the highest environmental standards. Together with our manufacturers, we try to always exceed legal standards and continously improve on every aspect of production. 
 
--	We only use special, environmentally friendly colors.
-- Wastewater limits are far below the legal drinking water limit.
--	Yearly review to further reduce wastewater.
--	We strictly DON'T use:
+Please see the overview of the measures we take to keep those standards:
+
+- We only use special, environmentally friendly colors.
+- Our manufacturer's wastewater filtration provides water that outperforms legal regulation on drinking water purity.
+- We run an annual review to further reduce wastewater.
+- We strictly **DON'T** use:
     - formaldehyde
     - cyanide
     - alkyl halides
     - ozone damaging compounds
--	All other chemical waste material is gathered, separated and recycled either in-house or by a specialized contractor.
--	The remaining copper has a >99% degree of purity.
+- All other chemical waste material is gathered, separated and recycled either in-house or by a specialized contractor.
+- Our remaining copper has over 99% purity.
 
 
 ### How are the circuit board's production parameters and which technologies do you support? ###
