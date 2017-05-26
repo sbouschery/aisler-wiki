@@ -5,7 +5,25 @@ AISLER was born out of the Euregio Maker Scene in Aachen, Germany. We started it
 ### Where are the circuit boards made? ###
 
 We have partnered with a manufacturer from Germany that produces boards for the car industry, medical device industry and other industrial grade applications, and, well now also for us :-) We are extremely proud that any author can now benefit from their board manufacturing quality – Made in Germany.
- 
+
+### What are AISLER's environmental standards? ###
+
+We believe that producing electronics is possible without harming the environment. This is why we don't only put emphasis on delivering the highest quality electronics, but also upholding to the highest environmental standards. Together with our manufacturers, we try to always exceed legal standards and continously improve on every aspect of production. 
+
+Please see the overview of the measures we take to keep those standards:
+
+- We only use special, environmentally friendly colors.
+- Our manufacturer's wastewater filtration provides water that outperforms legal regulation on drinking water purity.
+- We run an annual review to further reduce wastewater.
+- We strictly **DON'T** use:
+    - formaldehyde
+    - cyanide
+    - alkyl halides
+    - ozone damaging compounds
+- All other chemical waste material is gathered, separated and recycled either in-house or by a specialized contractor.
+- Our remaining copper has over 99% purity.
+
+
 ### How are the circuit board's production parameters and which technologies do you support? ###
 
 Your boards will all come with green soldermask, white top and bottom legend, and will have ENIG surface plating. We only use high-class FR4, 1.6mm TG150 material. We currently limit the offering to two-layer boards with 35µm copper weight. If you need more copper or want to have 4-layer boards please join our Beta-List by sending us an email to support@aisler.net.
