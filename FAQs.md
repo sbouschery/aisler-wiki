@@ -8,6 +8,15 @@ AISLER's headquarters are located in Lemiers, right beside Aachen, just on the D
 
 We have partnered with a manufacturer from Germany that produces boards for the car industry, medical device industry and other industrial grade applications, and, well now also for us :-) We are extremely proud that any author can now benefit from their board manufacturing quality – Made in Germany.
  
+### What are Precious Parts and Stellar Stencils? ###
+
+We want you tu have a true all-in-one prototyping experience. That is why we, besides beautiful boards, also offer precious parts and stellar stencils.
+
+Our intelligent parts package will make sure you have a finished project at the end of the day. This package won’t blow your budget but we made sure to add a few safety extras here and there. 
+All you need to do is document your bill of materials (BOM) and you can get your parts right with your boards.
+
+To make soldering SMD parts super easy, you can now get a stencil for you project as well. No extra work needed. Just add the stencil to your shopping basket and you're all set.
+
 ### How are the circuit board's production parameters and which technologies do you support? ###
 
 Your boards will all come with green soldermask, white top and bottom legend, and will have ENIG surface plating. We only use high-class FR4, 1.6mm TG150 material. We currently limit the offering to two-layer boards with 35µm copper weight. If you need more copper or want to have 4-layer boards please join our Beta-List by sending us an email to support@aisler.net.
