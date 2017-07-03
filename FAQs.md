@@ -10,7 +10,7 @@ We have partnered with a manufacturer from Germany that produces boards for the 
  
 ### What are Precious Parts and Stellar Stencils? ###
 
-We want you tu have a true all-in-one prototyping experience. That is why we, besides beautiful boards, also offer precious parts and stellar stencils.
+We want you to have a true all-in-one prototyping experience. That is why we, besides beautiful boards, also offer precious parts and stellar stencils.
 
 Our intelligent parts package will make sure you have a finished project at the end of the day. This package won’t blow your budget but we made sure to add a few safety extras here and there. 
 All you need to do is document your bill of materials (BOM) and you can get your parts right with your boards.
