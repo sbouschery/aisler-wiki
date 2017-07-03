@@ -15,7 +15,7 @@ We want you to have a true all-in-one prototyping experience. That is why we, be
 Our intelligent parts package will make sure you have a finished project at the end of the day. This package won’t blow your budget but we made sure to add a few safety extras here and there. 
 All you need to do is document your bill of materials (BOM) and you can get your parts right with your boards.
 
-To make soldering SMD parts super easy, you can now get a stencil for you project as well. No extra work needed. Just add the stencil to your shopping basket and you're all set.
+To make soldering SMD parts super easy, you can now get a stencil for you project as well. No extra work needed. Just add the stencil to your shopping basket and you're all set. Our stencils are made from 120 µm thin high quality stainless steel.
 
 ### How are the circuit board's production parameters and which technologies do you support? ###
 
