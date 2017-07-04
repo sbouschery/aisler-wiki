@@ -58,7 +58,21 @@ Navigate to the directory that the plots have been saved to
 ![](DesignSpark/assets/ScreenSix.PNG)
 
 And rename the files to the AISLER expected format 
-[Other Tools with Gerber Export](https://go.aisler.net/wiki/use-aisler-with/other-tools-with-gerber-export)
+
+AISLER expects the gerber files in the following format:
+
+<table>
+<tr><th>Gerber Layer Name</th><th>Layer</th></tr>
+<tr> <td>project_name.toplayer.ger</td><td>Top Layer</td> </tr>
+<tr> <td>project_name.bottomlayer.ger</td><td>Bottom Layer</td> </tr>
+<tr> <td>project_name.topsoldermask.ger</td><td>Top Soldermask</td> </tr>
+<tr> <td>project_name.bottomsoldermask.ger</td><td>Bottom Soldermask</td> </tr>
+<tr> <td>project_name.topsilkscreen.ger</td><td>Top Silkscreen</td> </tr>
+<tr> <td>project_name.bottomsilkscreen.ger</td><td>Bottom Silkscreen</td> </tr>
+<tr> <td>project_name.boardoutline.ger</td><td>Board Outline</td> </tr>
+<tr> <td>project_name.xln</td><td>PTH Drills</td> </tr>
+<tr> <td>project_name_npth.xln</td><td>NPTH Holes</td> </tr>
+</table>
 
 Once renamed, zip up the files:
 
