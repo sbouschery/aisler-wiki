@@ -18,7 +18,7 @@ It is licensed to you under [Creative Commons 4.0 International license](https:/
 
 This wiki is maintained and funded by AISLER B.V.
 
-Looking for industry quality and affordable PCBs, visit us at [AISLER GO](https://go.aisler.net)
+Looking for the smartest all-in-one solution for your electronics project? Visit us at [AISLER GO](https://go.aisler.net)
 
 ## Contributions
 
