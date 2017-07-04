@@ -25,3 +25,4 @@ Looking for industry quality and affordable PCBs, visit us at [AISLER GO](https:
 Thanks to all contributors outside of AISLER:
 
 - [el-j](https://github.com/el-j): Fixes to Fritzing tutorials
+- [RobHumphris](https://github.com/RobHumphris): Added RS DesignSpark tutorial
