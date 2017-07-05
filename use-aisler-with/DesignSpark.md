@@ -23,8 +23,8 @@ Top Copper (Paste)
 Bottom Copper (Paste)
 ![](DesignSpark/assets/ScreenFive.PNG)
 
-There are some issues with the drill settings in the Gerbers
-![](DesignSpark/assets/DrillSettings.PNG)
+There are some issues with the drill settings in the Drill Data Gerbers
+![](DesignSpark/assets/DrillData.PNG)
 
 Check that the **Plot From:** and **Plot To:** values match those in 'boardoutline'.
 
@@ -39,16 +39,10 @@ Then click the **NC Drill...** button
 
 Set the **Integer:** value to 2 and the **Decimal:** value to 4
 
+## Finally
 Finally click **Run** - this will start the export.
 
-## Now the arduous part...
-Navigate to the directory that the plots have been saved to
-![](DesignSpark/assets/ScreenSix.PNG)
-
-And rename the files to the AISLER expected format 
-[Other Tools with Gerber Export](https://go.aisler.net/wiki/use-aisler-with/other-tools-with-gerber-export)
-
-Once renamed, zip up the files:
+Navigate to the directory that the plots have been saved to, zip up the files:
 
 ![](DesignSpark/assets/ScreenSeven.PNG)
 
