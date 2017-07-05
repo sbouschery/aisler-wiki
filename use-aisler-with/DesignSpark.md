@@ -39,7 +39,7 @@ Then click the **NC Drill...** button
 
 Set the **Integer:** value to 2 and the **Decimal:** value to 4
 
-## Finally
+## Finally...
 Finally click **Run** - this will start the export.
 
 Navigate to the directory that the plots have been saved to, zip up the files:
