@@ -32,6 +32,10 @@ Please see the overview of the measures we take to keep those standards:
 
 Your boards will all come with green soldermask, white top and bottom legend, and will have ENIG surface plating. We only use high-class FR4, 1.6mm TG150 material. We currently limit the offering to two-layer boards with 35µm copper weight. If you need more copper or want to have 4-layer boards please join our Beta-List by sending us an email to support@aisler.net.
 
+### Do you support slots? ###
+
+Yes we do! Slots are no problem for us. You don't need to construct any workarounds. Just upload your original board files and everything should work just fine.
+
 ### You say you are affordable, how much do you charge? ###
 
 We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our [calculator](https://go.aisler.net). If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
