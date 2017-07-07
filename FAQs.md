@@ -6,6 +6,16 @@ AISLER's goal is to make prototyping as fun and effortless as possible! Your cre
 
 Our headquarters are in an old school in Lemiers, right beside Aachen and just behind the Dutch border. If you would like to learn more about the team, or become part of it, head over to the [About Us](https://go.aisler.net/about/us) page.
 
+### What services does AISLER offer? ###
+
+We want to provide you with everything you need to get your project built. Therefore we offer a complete set of products you might need.
+These are
+- beautiful boards (Our high quality PCBs)
+- precious parts (All the electronic parts your project needs)
+- stellar stencils (A stencil to make SMD soldering a piece of cake)
+
+learn more about our services [here](https://go.aisler.net/wiki/).
+
 ### Where are the circuit boards made? ###
 
 We have partnered with a manufacturer from Germany that produces boards for the car industry, medical device industry and other industrial grade applications, and, well now also for us :-) We are extremely proud that any author can now benefit from their board manufacturing quality – Made in Germany.
