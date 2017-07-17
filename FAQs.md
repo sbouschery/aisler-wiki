@@ -1,6 +1,10 @@
 ### Who is behind AISLER? ###
 
-AISLER was born out of the Euregio Maker Scene in Aachen, Germany. We started it because we wanted to support authors who provide great documentation for great projects but do not want to take the risks to organize the components for other makers. We are proud makers ourselves and want to enable everyone to be a maker! AISLER was co-founded by Patrick and Felix, for more info head over to the Team section.
+When Felix and Patrick met at a barbecue in 2014, they had no idea that they would soon be running a company together. They both felt that creative geniuses should have an easy-to-use tool to document their electronics projects. So AISLER was born. But AISLER wouldn't stay what it started out as: it transformed into a full stack manufacturing service for prototyping. Just as the idea grew, the AISLER family grew as well and now consists of a core team of five people.
+
+AISLER's goal is to make prototyping as fun and effortless as possible! Your creative genius should not have to deal with complicated order forms and multiple suppliers, but instead solely focus on creating your next awesome project.
+
+Our headquarters are in an old school in Lemiers, right beside Aachen and just behind the Dutch border. If you would like to learn more about the team, or become part of it, head over to the [About Us](https://go.aisler.net/about/us) page.
 
 ### Where are the circuit boards made? ###
 

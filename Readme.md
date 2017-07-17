@@ -18,10 +18,11 @@ It is licensed to you under [Creative Commons 4.0 International license](https:/
 
 This wiki is maintained and funded by AISLER B.V.
 
-Looking for industry quality and affordable PCBs, visit us at [AISLER GO](https://go.aisler.net)
+Looking for the smartest all-in-one solution for your electronics project? Visit us at [AISLER GO](https://go.aisler.net)
 
 ## Contributions
 
 Thanks to all contributors outside of AISLER:
 
 - [el-j](https://github.com/el-j): Fixes to Fritzing tutorials
+- [RobHumphris](https://github.com/RobHumphris): Added RS DesignSpark tutorial
