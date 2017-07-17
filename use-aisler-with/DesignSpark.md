@@ -50,5 +50,11 @@ Then click the **NC Drill...** button
 
 Set the **Integer:** value to 2 and the **Decimal:** value to 4
 
+## Finally...
 Finally click **Run** - this will start the export.
-No zip up the files, go to AISLER and [start a new project](https://go.aisler.net/p/new)
+
+Navigate to the directory that the plots have been saved to, zip up the files:
+
+![](DesignSpark/assets/ScreenSeven.PNG)
+
+Now go to AISLER and [start a new project](https://go.aisler.net/p/new)
