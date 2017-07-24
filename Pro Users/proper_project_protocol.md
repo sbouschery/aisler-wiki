@@ -37,7 +37,7 @@ Take a snapshot of your finished project and upload it to your projects page.
 ### Use The Power Of Social Media
 
 Social media sites like Facebook and Twitter are powerful tools to get the word out about you project.
-Share a picture of your end result and the link to the public project page, using the hashtag #creativegenius and make sure to tag @AislerHQ, so we can find and share your project as well.
+Share a picture of your end result and the link to the public project page, using the hashtag **#creativegenius** and make sure to tag **@AislerHQ**, so we can find and share your project as well.
 
 But there are far more places to write about your project than just Facebook and Twitter. Be sure to post to relevant forums or maybe your own blog, too.
 Btw., if you know of forums you think we should check out some time, feel free to shoot me a mail at sebastian@aisler.net
