@@ -9,7 +9,7 @@ Follow this Proper-Project-Protocol to check your project for publication readin
 You want people to find your project? The first step you need to make, is to set your project to "published".
 Just set the "Published?" switch to "Yes" and you are good to go.
 
-### What Should A Fellow Community Member know about your project?
+### What Should A Fellow Community Member Know About Your Project?
 
 If you find an answer to all of these questions you are on a good path to a top project!
 
