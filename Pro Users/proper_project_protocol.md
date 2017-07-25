@@ -6,8 +6,7 @@ Follow this Proper-Project-Protocol to check your project for publication readin
 
 ### Is Your Project Published?
 
-You want people to find your project? The first step you need to make, is to set your project to "published".
-Just set the "Published?" switch to "Yes" and you are good to go.
+You want people to find your project? The first step you need to take, is to publish your project. Just switch ![published_no](assets/published_no.png) to ![published_yes](assets/published_yes.png) and you are good to go.
 
 ### What Should A Fellow Community Member Know About Your Project?
 
