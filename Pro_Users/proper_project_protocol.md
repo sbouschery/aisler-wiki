@@ -6,7 +6,7 @@ Follow this Proper-Project-Protocol to check your project for publication readin
 
 ### Is Your Project Published?
 
-You want people to find your project? The first step you need to take, is to publish your project. Just switch ![published_no](Pro_Users/assets/published_no.png) to ![published_yes](Pro_Users/assets/published_yes.png) and you are good to go.
+You want people to find your project? The first step you need to take, is to publish your project. Just switch ![published_no](https://github.com/AislerHQ/aisler-wiki/tree/master/Pro_Users/assets/published_no.png) to ![published_yes](https://github.com/AislerHQ/aisler-wiki/tree/master/Pro_Users/assets/published_yes.png) and you are good to go.
 
 ### What Should A Fellow Community Member Know About Your Project?
 
