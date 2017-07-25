@@ -10,6 +10,7 @@ You want people to find your project? The first step you need to take, is to pub
 
 ### What Should A Fellow Community Member Know About Your Project?
 
+First of all, you need a proper description and a good project title.
 If you find an answer to all of these questions, you are on a good path to a proper project!
 
 - What does your project do?
