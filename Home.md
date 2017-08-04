@@ -47,3 +47,4 @@ Didn't find what you are looking for? Then you can do three things:
 - [[Head over to the FAQ section|FAQs]]
 - Send us an e-mail to [felix@aisler.net](mailto:felix@aisler.net)
 - Submit an issue on [Github](https://github.com/AislerHQ/aisler-wiki), because this wiki is just a Github repository ;-)
+- full contact information can be found in our [Imprint](https://aisler.net/about/imprint) 
