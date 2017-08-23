@@ -14,7 +14,7 @@ Click **Tools > DRC**.
 
 Download our design rule file for Eagle here:
 
-- 2 Layer: [aisler_go_2layer.dru](assets/aisler_go_2layer.dru)
+- 2 Layer Design Rule File in Support repository: [aisler_go_2layer.dru](https://github.com/AislerHQ/aisler-support)
 
 ![Select a design rule file in Eagle](assets/select_design_rule_file.png)
 
