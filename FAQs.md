@@ -60,6 +60,10 @@ The following design rules should be respected if you like to manufacture your P
 - Min. drill diameter for vias: 0.2 mm
 - Min. via pad diameter: Via drill + 0.25 mm
 - Min. stroke width of legend print: 100 μm
+
+### What are the stencils made of?
+
+In general, we use 120µm thin stainless steel. When you uploaded the project’s files, we will use the paste layer. If you uploaded Gerber-Files we will send you an email prior to production.
  
 ### What file extensions should my Gerber files have? ###
 
