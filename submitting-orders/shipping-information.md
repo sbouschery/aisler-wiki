@@ -8,7 +8,6 @@ You have the following shipping options available with us:
 <table>
 <tr><th>Shipping type</th><th>Cost</th><th>Tracking</th></tr>
 <tr><td>Standard Mail</td><td>€ 6,00</td><td>no</td></tr>
-<tr><td>Premium Mail</td><td>€ 12,00</td><td>yes</td></tr>
 <tr><td>Express Mail</td><td>€ 32,00</td><td>yes</td></tr>
 </table>
 
