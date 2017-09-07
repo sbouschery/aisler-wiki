@@ -27,7 +27,9 @@ We want you to have a true all-in-one prototyping experience. That is why we, be
 Our intelligent parts package will make sure you have a finished project at the end of the day. This package won’t blow your budget but we made sure to add a few safety extras here and there. 
 All you need to do is document your bill of materials (BOM) and you can get your parts right with your boards.
 
-To make soldering SMD parts super easy, you can now get a stencil for you project as well. No extra work needed. Just add the stencil to your shopping basket and you're all set. Our stencils are made from 120 µm thin high quality stainless steel.
+### What are the stencils made of?
+
+In general, we use 120µm thin stainless steel. When you uploaded the project’s files, we will use the paste layer. If you uploaded Gerber-Files we will send you an email prior to production.
 
 ### What are AISLER's environmental standards? ###
 
@@ -71,10 +73,6 @@ The following design rules should be respected if you like to manufacture your P
 - Min. drill diameter for vias: 0.2 mm
 - Min. via pad diameter: Via drill + 0.25 mm
 - Min. stroke width of legend print: 100 μm
-
-### What are the stencils made of?
-
-In general, we use 120µm thin stainless steel. When you uploaded the project’s files, we will use the paste layer. If you uploaded Gerber-Files we will send you an email prior to production.
  
 ### What file extensions should my Gerber files have? ###
 
