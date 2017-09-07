@@ -99,7 +99,7 @@ We are based in the Netherlands, which means every business inside a member stat
 
 ### Do you charge for shipping? ###
 
-Yes and No. We will send boards for free through regular mail when the order is higher than 30 EUR. If you prefer them to be shipped as insured mail you can select as an option during your order. Worldwide express shipping is also an option and is avialable for 32 EUR.
+Yes and No. We will send boards for free through regular mail when the order is higher than 30 EUR. Worldwide express shipping is also an option and is avialable for 32 EUR.
 
 ### Do you ship world-wide? ###
 
