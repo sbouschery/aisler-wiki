@@ -1,6 +1,6 @@
 <!-- --- title: Using KiCad with AISLER -->
 # Using KiCad with AISLER
-We allow you to directly import your .kicad_pcb and .sch files into AISLER. We support KiCad Version 3 and 4 natively. 
+We allow you to directly import your .kicad_pcb and .sch files into AISLER. We support KiCad Versions 3, 4 and all nightly builds natively. 
 
 ### Most important design rules to use with KiCad
 - Min. trace width: 100 μm

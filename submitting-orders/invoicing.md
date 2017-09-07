@@ -23,7 +23,7 @@ AISLER only accepts pre-payment. We will send your order only once we have recei
 ### Invoicing for businesses based in the in the EU ###
 Are you a business in the EU and want to take advantage of the EU reverse charge regulation? No problem, we are based in the Netherlands, which means every business inside a member state of the European Union is eligible for a VAT-free invoice according to EU reverse charge regulations. This does not apply a) when you ship to the Netherlands, or b) are a Dutch entity. In that case you can deduct the VAT with your quarterly declaration. 
 
-Please contact us via [felix@aisler.net](mailto:felix@aisler.net), send your valid Tax-Id and we will gladly set your account to a VAT-free account. When you are logged in and eligible for VAT-free, you will then see prices without VAT and your invoice will be VAT-free. Please note that you still have to abide to local tax laws. 
+Please register an account with us, login and navigate to your [profile page](https://go.aisler.net/account/profile). We will then automatically set your account to a VAT-free account. When you are logged in and eligible for VAT-free, you will then see prices without VAT and your invoice will be VAT-free. Please note that you still have to abide to local tax laws. 
 
 For addresses outside the European Union we automatically deduct the VAT so no registration is necessary.
 

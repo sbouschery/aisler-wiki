@@ -1,13 +1,25 @@
 ### Who is behind AISLER? ###
 
-When Felix and Patrick met at a Barbecue in 2014, they had no idea they would soon be running a company together. They both felt that creative geniuses should have a way to easily document their projects for the community. AISLER was born. The concept has been fine tuned and grew eversince. After many iterations, today it is the smartest all-in-one solution for your electronics project. The two eventually realized, that to bring all their ideas to life, the team had to expand and so the AISLER family is steadily growing and now has a core team of 5 people. AISLER's goal is to make prototyping as fun and effortless as possible, because the creative genius behind a project should focus only on creating and not have to deal with over complicated order forms and multiple suppliers.
+When Felix and Patrick met at a barbecue in 2014, they had no idea that they would soon be running a company together. They both felt that creative geniuses should have an easy-to-use tool to document their electronics projects. So AISLER was born. But AISLER wouldn't stay what it started out as: it transformed into a full stack manufacturing service for prototyping. Just as the idea grew, the AISLER family grew as well and now consists of a core team of five people.
 
-AISLER's headquarters are located in Lemiers, right beside Aachen, just on the Dutch side of the border.
+AISLER's goal is to make prototyping as fun and effortless as possible! Your creative genius should not have to deal with complicated order forms and multiple suppliers, but instead solely focus on creating your next awesome project.
+
+Our headquarters are in an old school in Lemiers, right beside Aachen and just behind the Dutch border. If you would like to learn more about the team, or become part of it, head over to the [About Us](https://go.aisler.net/about/us) page.
+
+### What services does AISLER offer? ###
+
+We want to provide you with everything you need to get your project built. Therefore we offer a complete set of products you might need.
+These are
+- beautiful boards (Our high quality PCBs)
+- precious parts (All the electronic parts your project needs)
+- stellar stencils (A stencil to make SMD soldering a piece of cake)
+
+learn more about our services [here](https://go.aisler.net/wiki/).
 
 ### Where are the circuit boards made? ###
 
-We have partnered with a manufacturer from Germany that produces boards for the car industry, medical device industry and other industrial grade applications, and, well now also for us :-) We are extremely proud that any author can now benefit from their board manufacturing quality – Made in Germany.
- 
+We have partnered with a manufacturer from Germany that produces boards for the car industry, medical device industry and other industrial grade applications, and, well now also for us :-) We are extremely proud that any author can now benefit from their board manufacturing quality – Made in Germany. 
+
 ### What are Precious Parts and Stellar Stencils? ###
 
 We want you to have a true all-in-one prototyping experience. That is why we, besides beautiful boards, also offer precious parts and stellar stencils.
@@ -17,14 +29,30 @@ All you need to do is document your bill of materials (BOM) and you can get your
 
 To make soldering SMD parts super easy, you can now get a stencil for you project as well. No extra work needed. Just add the stencil to your shopping basket and you're all set. Our stencils are made from 120 µm thin high quality stainless steel.
 
+### What are AISLER's environmental standards? ###
+
+We believe that producing electronics is possible without harming the environment. This is why we don't only put emphasis on delivering the highest quality electronics, but also upholding to the highest environmental standards. Together with our manufacturers, we try to always exceed legal standards and continuously improve on every aspect of production. 
+
+Please see the overview of the measures we take to keep those standards:
+
+- We only use special, environmentally friendly colors.
+- Our manufacturer's wastewater filtration provides water that outperforms legal regulation on drinking water purity.
+- We run an annual review to further reduce wastewater.
+- We strictly **DON'T** use:
+    - formaldehyde
+    - cyanide
+    - alkyl halides
+    - ozone damaging compounds
+- All other chemical waste material is gathered, separated and recycled either in-house or by a specialized contractor.
+- Our remaining copper has over 99% purity.
+
 ### How are the circuit board's production parameters and which technologies do you support? ###
 
 Your boards will all come with green soldermask, white top and bottom legend, and will have ENIG surface plating. We only use high-class FR4, 1.6mm TG150 material. We currently limit the offering to two-layer boards with 35µm copper weight. If you need more copper or want to have 4-layer boards please join our Beta-List by sending us an email to support@aisler.net.
 
 ### You say you are affordable, how much do you charge? ###
 
-We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our calculator. If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
-
+We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our [calculator](https://go.aisler.net). If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
 
 ### What are the design rules for the PCBs? ###
 
@@ -39,6 +67,10 @@ The following design rules should be respected if you like to manufacture your P
 - Min. drill diameter for vias: 0.2 mm
 - Min. via pad diameter: Via drill + 0.25 mm
 - Min. stroke width of legend print: 100 μm
+
+### What are the stencils made of?
+
+In general, we use 120µm thin stainless steel. When you uploaded the project’s files, we will use the paste layer. If you uploaded Gerber-Files we will send you an email prior to production.
  
 ### What file extensions should my Gerber files have? ###
 
@@ -61,7 +93,7 @@ We accept quite a lot of file extensions, but to make sure everything gets detec
 
 ### I’m a business and would like to receive an invoice without VAT ###
 
-We are based in the Netherlands, which means every business inside a member state of the European Union is eligible for a VAT-free invoice according to EU reverse charge regulations. Please contact us via [felix@aisler.net](mailto:felix@aisler.net), send your valid Tax-Id and we will gladly set your account to a VAT-free account. When you are logged in, you will then see prices without VAT and your invoice will be VAT-free. Please note that you still have to abide to local tax laws. For addresses outside the European Union we automatically deduct the VAT so no registration is necessary.
+We are based in the Netherlands, which means every business inside a member state of the European Union is eligible for a VAT-free invoice according to EU reverse charge regulations. To set your account to a VAT-free account, please just provide your valid Tax-ID in your account information. When you are logged in, you will then see prices without VAT and your invoice will be VAT-free. Please note that you still have to abide to local tax laws. For addresses outside the European Union we automatically deduct the VAT so no registration is necessary.
 
 ### Do you charge for shipping? ###
 
@@ -77,4 +109,4 @@ Regular 2-Layer circuit board orders will be shipped to you within 12 business d
 
 ### What methods of payment do you accept? ###
 
-We currently accept wire transfer, major credit cards, Bitcoin and Paypal. All transfers are handled securely through our payment provider **Mollie**.
+We currently accept wire transfer, major credit cards, Paypal, iDeal, KBC/CBC, Belfius, Bancontact, Sofort Überweisung and Bitcoin. All transfers are handled securely through our payment provider **Mollie**.
