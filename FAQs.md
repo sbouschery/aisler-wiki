@@ -6,9 +6,28 @@ AISLER's goal is to make prototyping as fun and effortless as possible! Your cre
 
 Our headquarters are in an old school in Lemiers, right beside Aachen and just behind the Dutch border. If you would like to learn more about the team, or become part of it, head over to the [About Us](https://go.aisler.net/about/us) page.
 
+### What services does AISLER offer? ###
+
+We want to provide you with everything you need to get your project built. Therefore we offer a complete set of products you might need.
+These are
+- beautiful boards (Our high quality PCBs)
+- precious parts (All the electronic parts your project needs)
+- stellar stencils (A stencil to make SMD soldering a piece of cake)
+
+learn more about our services [here](https://go.aisler.net/wiki/).
+
 ### Where are the circuit boards made? ###
 
-We have partnered with a manufacturer from Germany that produces boards for the car industry, medical device industry and other industrial grade applications, and, well now also for us :-) We are extremely proud that any author can now benefit from their board manufacturing quality – Made in Germany.
+We have partnered with a manufacturer from Germany that produces boards for the car industry, medical device industry and other industrial grade applications, and, well now also for us :-) We are extremely proud that any author can now benefit from their board manufacturing quality – Made in Germany. 
+
+### What are Precious Parts and Stellar Stencils? ###
+
+We want you to have a true all-in-one prototyping experience. That is why we, besides beautiful boards, also offer precious parts and stellar stencils.
+
+Our intelligent parts package will make sure you have a finished project at the end of the day. This package won’t blow your budget but we made sure to add a few safety extras here and there. 
+All you need to do is document your bill of materials (BOM) and you can get your parts right with your boards.
+
+To make soldering SMD parts super easy, you can now get a stencil for you project as well. No extra work needed. Just add the stencil to your shopping basket and you're all set. Our stencils are made from 120 µm thin high quality stainless steel.
 
 ### What are AISLER's environmental standards? ###
 
@@ -27,15 +46,17 @@ Please see the overview of the measures we take to keep those standards:
 - All other chemical waste material is gathered, separated and recycled either in-house or by a specialized contractor.
 - Our remaining copper has over 99% purity.
 
-
 ### How are the circuit board's production parameters and which technologies do you support? ###
 
 Your boards will all come with green soldermask, white top and bottom legend, and will have ENIG surface plating. We only use high-class FR4, 1.6mm TG150 material. We currently limit the offering to two-layer boards with 35µm copper weight. If you need more copper or want to have 4-layer boards please join our Beta-List by sending us an email to support@aisler.net.
 
+### Do you support slots? ###
+
+Yes we do! Slots are no problem for us. You don't need to construct any workarounds. Just upload your original board files and everything should work just fine.
+
 ### You say you are affordable, how much do you charge? ###
 
 We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our [calculator](https://go.aisler.net). If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
-
 
 ### What are the design rules for the PCBs? ###
 
@@ -50,6 +71,10 @@ The following design rules should be respected if you like to manufacture your P
 - Min. drill diameter for vias: 0.2 mm
 - Min. via pad diameter: Via drill + 0.25 mm
 - Min. stroke width of legend print: 100 μm
+
+### What are the stencils made of?
+
+In general, we use 120µm thin stainless steel. When you uploaded the project’s files, we will use the paste layer. If you uploaded Gerber-Files we will send you an email prior to production.
  
 ### What file extensions should my Gerber files have? ###
 
