@@ -23,7 +23,7 @@ We keep you informed about the manufacturing process via e-mail. Once we have se
 <tr><th>Region</th><th>Shipping time</th></tr>
 <tr><td>Germany</td><td>1 business day</td></tr>
 <tr><td>BENELUX</td><td>1 business days</td></tr>
-<tr><td>Denmark, Norway, Sweden</td><td>2 business days</td></tr>
+<tr><td>Denmark, Norway, Sweden</td><td>2-4 business days</td></tr>
 <tr><td>U.K.</td><td>3 business days</td></tr>
 <tr><td>Rest of Europe</td><td>max. 4 business days</td></tr>
 <tr><td>Australia</td><td>3 weeks</td></tr>
