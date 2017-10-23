@@ -7,13 +7,13 @@ You have the following shipping options available with us:
 
 <table>
 <tr><th>Shipping type</th><th>Cost</th><th>Tracking</th></tr>
-<tr><td>Standard Mail</td><td>€ 6,00</td><td>no</td></tr>
-<tr><td>Express Mail</td><td>€ 32,00</td><td>yes</td></tr>
+<tr><td>Standard Mail</td><td>Free</td><td>no</td></tr>
+<tr><td>Express Shipping</td><td>between 12.00 - 25.00 EUR (varies by your location)</td><td>yes</td></tr>
 </table>
 
-Standard Shipping is included in all orders above 30 Euro.
+Standard Shipping is included in all orders. For Express we use FedEx for all locations outside of the Netherlands & Germany. 
 
-**Pro tip:** AISLER uses an intelligent shopping basket. If you order multiple times and you are on the same batch, your orders will be grouped together internally. Therefore, if you pay for shipping once (or exceed our 30 Euro threshold), you will not be charged a second time.  
+**Pro tip:** AISLER uses an intelligent shopping basket. If you order multiple times and you are on the same batch, your orders will be grouped together internally. Therefore, if you pay for shipping once (i.e. purchase Express Shipping), you will not be charged a second time.  
 
 
 ### Known shipping times ###
