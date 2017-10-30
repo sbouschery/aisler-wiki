@@ -1,6 +1,6 @@
 <!-- --- title: Shipping Information -->
 # Shipping Information
-If you want to know how we ship your manufactured project or how much it costs, you will find the information here. We generally ship within **7 days** max. If you live in Europe you should hold your project in your hands within **10 days** max.  
+If you want to know how we ship your manufactured project or how much it costs, you will find the information here. We generally ship within **7 business days** max. If you live in Europe you should hold your project in your hands within **10 business days** max.  
 
 ### Shipping options ###
 You have the following shipping options available with us:
