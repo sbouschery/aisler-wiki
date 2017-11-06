@@ -130,10 +130,6 @@ We accept quite a lot of file extensions, but to make sure everything gets detec
 
 We are based in the Netherlands, which means every business inside a member state of the European Union is eligible for a VAT-free invoice according to EU reverse charge regulations. To set your account to a VAT-free account, please just provide your valid Tax-ID in your account information. When you are logged in, you will then see prices without VAT and your invoice will be VAT-free. Please note that you still have to abide to local tax laws. For addresses outside the European Union we automatically deduct the VAT so no registration is necessary.
 
-### Do you charge for shipping? ###
-
-Yes and No. We will send boards for free through regular mail when the order is higher than 30 EUR. Worldwide express shipping is also an option and is avialable for 32 EUR.
-
 ### Do you ship world-wide? ###
 
 Yes, we currently have good experience with shipping to countries in the European Union, United States and Canada. All other countries are possible, but we don't guarantee a delivery time. 
