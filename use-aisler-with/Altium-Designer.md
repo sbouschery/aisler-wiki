@@ -22,7 +22,7 @@ To properly export Gerber Files with Altium for use with AISLER, you will have t
 
 Please navigate to **File » Fabrication Outputs » NC Drill Files** to setup NC Drill Files.
 
-[[/use-aisler-with/Altium-Designer/assets/nc_drill_setup.png|alt=Select Inches and 2:4 Format, Keep leading zeroes, reference to relative origin, Optimize change location commands, and Generate separate NC Drill files for plated and non-plated holes]]
+![Select Inches and 2:4 Format, Keep leading zeroes, reference to relative origin, Optimize change location commands, and Generate separate NC Drill files for plated and non-plated holes](/use-aisler-with/Altium-Designer/assets/nc_drill_setup.png)
 
 #### Gerber Setup Dialog ####
 
@@ -31,27 +31,27 @@ Please navigate to **File » Fabrication Outputs » Gerber Files** to setup Gerb
 
 **Setup General:**
 
-[[/use-aisler-with/Altium-Designer/assets/gerber_setup_general.png|alt=Select inches and 2:4 format in General tab]]
+![Select inches and 2:4 format in General tab](/use-aisler-with/Altium-Designer/assets/gerber_setup_general.png)
 
 
 **Setup Layers:**
 
-[[/use-aisler-with/Altium-Designer/assets/gerber_setup_layers.png|alt=Only select Top and Bottom Overlay, Paste, Layer and Overlay, and Mechanical 1 in Setup Layer Tab]]
+![Only select Top and Bottom Overlay, Paste, Layer and Overlay, and Mechanical 1 in Setup Layer Tab](/use-aisler-with/Altium-Designer/assets/gerber_setup_layers.png)
 
 
 **Setup Drill Drawing:**
 
-[[/use-aisler-with/Altium-Designer/assets/gerber_setup_drill_drawing.png|alt=Deselect all options in Drill Drawing tab]]
+![Deselect all options in Drill Drawing tab](/use-aisler-with/Altium-Designer/assets/gerber_setup_drill_drawing.png)
 
 
 **Setup apertures:**
 
-[[/use-aisler-with/Altium-Designer/assets/gerber_setup_apertures.png|alt=Select Embedded apertures (RX274X)]]
+![Select Embedded apertures (RX274X)](/use-aisler-with/Altium-Designer/assets/gerber_setup_apertures.png)
 
 
 **Setup advanced:**
 
-[[/use-aisler-with/Altium-Designer/assets/gerber_setup_advanced.png|alt=Select Separate File per Layer in Batch Mode, Suppress leading zeroes in Leading/Trailing zeroes, Reference to relative origin in Position on Film, unsorted (raster) in Plotter type in Advance Tab. Also select Optimize change location commands.]]
+![Select Separate File per Layer in Batch Mode, Suppress leading zeroes in Leading/Trailing zeroes, Reference to relative origin in Position on Film, unsorted (raster) in Plotter type in Advance Tab. Also select Optimize change location commands.](/use-aisler-with/Altium-Designer/assets/gerber_setup_advanced.png)
 
 *Note:* In this screen the Film size and Aperture Matching Tolerances are project specific, so please add the project's relevant settings here.
 
