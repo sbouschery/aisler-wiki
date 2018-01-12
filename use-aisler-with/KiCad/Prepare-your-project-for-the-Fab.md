@@ -21,8 +21,6 @@ Use **Routing > Ground Fill > Ground Fill** from the menu to fill the blank area
 
 Be careful with this step, though: If you have a "messy" sketch where there are some unrouted connections containing connections between ground and power, or if you're unsure, use a plain Copper Fill instead. This will not attempt to connect itself to ground.
 
-**Note for Advanced Users**: We will automatically re-apply a copper fill to your PCB in the production process. If you absolutely want to keep areas of your PCB free of copper, just place a "copper fill blocker" there.
-
 ### 3. Make a paper placement test (optional) ###
 [[/uploads/Fritzing/fritzing_paper_circuit.jpeg]]
 
