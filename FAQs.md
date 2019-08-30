@@ -1,5 +1,38 @@
-### Who is behind AISLER? ###
+[Who is behind AISLER?](#Who-is-behind-AISLER)
 
+[What services does AISLER offer?](#What-services-does-AISLER-offer)
+
+[Where are the circuit boards made?](#Where-are-the-circuit-boards-made)
+
+[What are Precious Parts and Stellar Stencils?](#What-are-Precious-Parts-and-Stellar-Stencils)
+
+[What are the stencils made of?](#What-are-the-stencils-made-of)
+
+[What are AISLER's environmental standards?](#What-are-AISLER's-environmental-standards)
+
+[How are the circuit board's production parameters and which technologies do you support?](#How-are-the-circuit-board's-production-parameters-and-which-technologies-do-you-support)
+
+[Do you support slots?](#Do-you-support-slots)
+
+[You say you are affordable, how much do you charge?](#You-say-you-are-affordable,-how-much-do-you-charge)
+
+[What are the design rules for the PCBs?](#What-are-the-design-rules-for-the-PCBs)
+
+[What file extensions should my Gerber files have?](#What-file-extensions-should-my-Gerber-files-have)
+
+[I’m a business and would like to receive an invoice without VA](#I’m-a-business-and-would-like-to-receive-an-invoice-without-VA)
+
+[Do you charge for shipping?](#Do-you-charge-for-shipping)
+
+[Do you ship world-wide?](#Do-you-ship-world-wide)
+
+[What is the lead time for the production?](#What-is-the-lead-time-for-the-production)
+
+[What methods of payment do you accept?](#What-methods-of-payment-do-you-accept)
+
+
+### Who is behind AISLER? ###
+<a name="Who-is-behind-AISLER"></a>
 When Felix and Patrick met at a barbecue in 2014, they had no idea that they would soon be running a company together. They both felt that creative geniuses should have an easy-to-use tool to document their electronics projects. So AISLER was born. But AISLER wouldn't stay what it started out as: it transformed into a full stack manufacturing service for prototyping. Just as the idea grew, the AISLER family grew as well and now consists of a core team of five people.
 
 AISLER's goal is to make prototyping as fun and effortless as possible! Your creative genius should not have to deal with complicated order forms and multiple suppliers, but instead solely focus on creating your next awesome project.
@@ -27,7 +60,9 @@ We want you to have a true all-in-one prototyping experience. That is why we, be
 Our intelligent parts package will make sure you have a finished project at the end of the day. This package won’t blow your budget but we made sure to add a few safety extras here and there. 
 All you need to do is document your bill of materials (BOM) and you can get your parts right with your boards.
 
-To make soldering SMD parts super easy, you can now get a stencil for you project as well. No extra work needed. Just add the stencil to your shopping basket and you're all set. Our stencils are made from 120 µm thin high quality stainless steel.
+### What are the stencils made of? ###
+
+In general, we use 120µm thin stainless steel. When you uploaded the project’s files, we will use the paste layer. If you uploaded Gerber-Files we will send you an email prior to production.
 
 ### What are AISLER's environmental standards? ###
 
@@ -50,6 +85,10 @@ Please see the overview of the measures we take to keep those standards:
 
 Your boards will all come with green soldermask, white top and bottom legend, and will have ENIG surface plating. We only use high-class FR4, 1.6mm TG150 material. We currently limit the offering to two-layer boards with 35µm copper weight. If you need more copper or want to have 4-layer boards please join our Beta-List by sending us an email to support@aisler.net.
 
+### Do you support slots? ###
+
+Yes we do! Slots are no problem for us. You don't need to construct any workarounds. Just upload your original board files and everything should work just fine.
+
 ### You say you are affordable, how much do you charge? ###
 
 We have tried to make our pricing as transparent as possible. For a simple pricing overview feel free to use our [calculator](https://go.aisler.net). If you find a price for a batch of three PCBs somewhere else that is more affordable, we guarantee to match that price. Just send us an email to [felix@aisler.net](mailto:felix@aisler.net)
@@ -67,10 +106,6 @@ The following design rules should be respected if you like to manufacture your P
 - Min. drill diameter for vias: 0.2 mm
 - Min. via pad diameter: Via drill + 0.25 mm
 - Min. stroke width of legend print: 100 μm
-
-### What are the stencils made of?
-
-In general, we use 120µm thin stainless steel. When you uploaded the project’s files, we will use the paste layer. If you uploaded Gerber-Files we will send you an email prior to production.
  
 ### What file extensions should my Gerber files have? ###
 
@@ -94,10 +129,6 @@ We accept quite a lot of file extensions, but to make sure everything gets detec
 ### I’m a business and would like to receive an invoice without VAT ###
 
 We are based in the Netherlands, which means every business inside a member state of the European Union is eligible for a VAT-free invoice according to EU reverse charge regulations. To set your account to a VAT-free account, please just provide your valid Tax-ID in your account information. When you are logged in, you will then see prices without VAT and your invoice will be VAT-free. Please note that you still have to abide to local tax laws. For addresses outside the European Union we automatically deduct the VAT so no registration is necessary.
-
-### Do you charge for shipping? ###
-
-Yes and No. We will send boards for free through regular mail when the order is higher than 30 EUR. If you prefer them to be shipped as insured mail you can select as an option during your order. We know shipping works smoothly in Europe & US. Want to receive your Kit in other countries, please send us an email at [felix@aisler.net](mailto:felix@aisler.net) or contact us through our social media accounts.
 
 ### Do you ship world-wide? ###
 

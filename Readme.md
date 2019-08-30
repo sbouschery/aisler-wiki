@@ -14,11 +14,11 @@ It is licensed to you under [Creative Commons 4.0 International license](https:/
 
 ## About AISLER
 
-![AISLER](https://cdn-2.aisler.net/assets/logo_invert_orange-7ca49b7abecdf2f857639df2c0de142889a9dc23d33af4b9f875db54c0bc417e.png)
+![AISLER](https://cdn.aisler.net/assets/logo-abba89df5e5998f1ff738bb2a7952e5b47999bc90235994a2c415d00b43d5e36.svg)
 
 This wiki is maintained and funded by AISLER B.V.
 
-Looking for the smartest all-in-one solution for your electronics project? Visit us at [AISLER GO](https://go.aisler.net)
+Want to build powerful electronic prototypes? Visit us at [AISLER](https://aisler.net)
 
 ## Contributions
 

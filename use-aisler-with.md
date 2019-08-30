@@ -9,4 +9,4 @@ In this section you will find tutorials on how to use our service with your favo
 - [[Altium Designer|Altium-Designer]]
 - [[National Instruments Ultiboard|national-instruments-ultiboard]] a.k.a. [[National Instruments Multisim|national-instruments-ultiboard]]
 - [[Design Spark|DesignSpark]]
-- [[Other tools with Gerber Export|gerber-export]]
+- [[Other tools with Gerber Export|other-tools-with-gerber-export]]

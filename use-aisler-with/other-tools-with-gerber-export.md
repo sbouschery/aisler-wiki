@@ -29,6 +29,8 @@ AISLER expects the gerber files in the following format:
 <tr> <td>project_name.bottomsoldermask.ger</td><td>Bottom Soldermask</td> </tr>
 <tr> <td>project_name.topsilkscreen.ger</td><td>Top Silkscreen</td> </tr>
 <tr> <td>project_name.bottomsilkscreen.ger</td><td>Bottom Silkscreen</td> </tr>
+<tr> <td>project_name.toppaste.ger</td><td>Top Paste (Stencil)</td> </tr>
+<tr> <td>project_name.bottompaste.ger</td><td>Bottom Paste (Stencil)</td> </tr>
 <tr> <td>project_name.boardoutline.ger</td><td>Board Outline</td> </tr>
 <tr> <td>project_name.xln</td><td>PTH Drills</td> </tr>
 <tr> <td>project_name_npth.xln</td><td>NPTH Holes</td> </tr>
